@@ -1,0 +1,5 @@
+#loading data set 5 (household and personal) from 2006 NCVS stalking supplement
+
+import pandas as pd
+df_stalking_complete = pd.read_csv("/Users/meghan/Desktop/2006STALKINGSUPPLEMENT/DS0005/20080-0005-Data.tsv",sep='\t')
+df_stalking_complete.head()
