@@ -1,0 +1,123 @@
+Coll_Event,Chakra,Date,Time_Start,Time_End,Purpose,Temp_Start,Temp_End,Weather_Start,Weather_End,Notes,Data Entry Initials
+2201,RB1,10/5/16,7:58,9:19,Fruit survey,25.3,28.5,cloudy,cloudy,,SB
+2202,CC1,10/8/16,10:51,14:30,Fruit survey/Marking trees,28.5,31.1,cloudy,semi cloudy,,SB
+2203,CC2,10/8/16,14:31,15:22,Fruit survey/Marking trees,31.1,31.9,semi cloudy,semi cloudy,,SB
+2001,CC1,10/9/16,7:00,7:53,Collection,26,25.5,cloudy,cloudy,,SB
+2501,CC1,10/9/16,8:03,11:19,MF,25.5,29,light rain,light rain,rain 8:10-8:50,SB
+2002,CC1,10/9/16,11:35,12:02,Collection,28.1,27.7,light rain,cloudy,,SB
+2003,CC2,10/10/16,7:05,7:50,Collection,23.9,25.8,cloudy,cloudy,,SB
+2502,CC2,10/10/16,7:58,10:58,MF,26.1,29.2,cloudy,cloudy,,SB
+2004,CC2,10/10/16,11:30,11:54,Collection,30.2,29.9,cloudy,cloudy,,SB
+2204,SJ1,10/11/16,13:47,15:35,Fruit survey/marking trees,31.3,30.5,semi cloudy,semi cloudy,,SB
+2601,SJ1,10/11/16,15:35,15:50,Banana stems,30.5,27.3,semi cloudy,semi cloudy,,SB
+2602,SJ2,10/11/16,16:13,16:30,Banana stems,27.1,27.1,light rain,light rain,,SB
+2005,SJ1,10/12/16,7:00,8:02,Collection,22.9,25.1,few clouds,few clouds,,SB
+2007,SJ2,10/12/16,6:59,7:52,Collection,22.2,27,few clouds,few clouds,,SB
+2503,SJ1,10/12/16,8:24,10:05,MF,25.2,29,few clouds,few clouds,,SB
+2205,SJ2,10/12/16,10:25,11:00,Fruit survey,30.7,30.2,few clouds,few clouds,,SB
+2006,SJ1,10/12/16,11:30,12:17,Collection,29.6,30.3,few clouds,semi cloudy,,SB
+2008,SJ2,10/12/16,11:29,12:20,Collection,29.5,32.2,few clouds,semi cloudy,,SB
+2504,SJ2,10/12/16,14:18,16:20,MF,29.8,29.6,few clouds,few clouds,,SB
+2603,RB1,10/18/16,16:36,16:50,Banana stems,30.3,29.6,clear,clear,,SB
+2206,RB1,10/19/16,11:12,12:01,Fruit survey,30.6,32.5,clear,clear,,SB
+2009,RB1,10/20/16,7:06,7:55,Collection,24.3,24.5,few clouds,cloudy,,SB
+2505,RB1,10/20/16,8:00,10:50,MF,24.9,29.2,cloudy,few clouds,,SB
+2010,RB1,10/20/16,11:30,12:02,Collection,30,31.8,semi cloudy,semi cloudy,,SB
+2207,CC2,10/21/16,9:42,11:14,Fruit survey,29.8,31.5,semi cloudy,semi cloudy,,SB
+2208,CC1,10/21/16,11:41,13:25,Fruit survey,30.5,31.4,semi cloudy,semi cloudy,,SB
+2604,CC1,10/21/16,13:31,13:40,Banana stems,32.9,31.5,few clouds,few clouds,,SB
+2605,CC2,10/21/16,14:08,14:20,Banana stems,33.5,30.9,semi cloudy,semi cloudy,,SB
+2013,CC2,10/22/16,7:09,8:03,Collection,24.5,25.8,cloudy,light rain,interrupted by rain,SB
+2011,CC1,10/22/16,7:23,8:07,collection,24.4,23.9,light rain,cloudy,interrupted by rain,SB
+2506,CC2,10/22/16,8:52,11:12,MF,26.3,30,cloudy,semi cloudy,,SB
+2014,CC2,10/22/16,11:30,12:31,Collection,32.2,31.1,semi cloudy,semi cloudy,,SB
+2012,CC1,10/22/16,11:28,12:26,Collection,30.3,31.5,semi cloudy,cloudy,,SB
+2507,CC1,10/22/16,13:39,15:28,MF,31.8,32.2,few clouds,few clouds,,SB
+2701,CC2,10/23/16,8:01,12:00,CW Poll,n/a,n/a,few clouds,few clouds,,SB
+2209,SJ2,10/25/16,9:44,11:56,Fruit survey,28.6,32.9,few clouds,few clouds,,SB
+2607,SJ2,10/25/16,11:56,12:10,Banana stems,32.9,33.4,few clouds,few clouds,,SB
+2210,SJ1,10/25/16,15:00,16:50,Fruit survey,24.8,26.3,cloudy,few clouds,no end data so had to use banana stem collection start data,SB
+2606,SJ1,10/25/16,16:54,17:20,Banana stems,26.3,29,few clouds,semi cloudy,,SB
+2015,SJ1,10/26/16,7:00,7:58,Collection,23.9,25.8,cloudy,semi cloudy,,SB
+2508,SJ2,10/26/16,8:23,10:44,MF,27.3,27.3,few clouds,few clouds,,SB
+2017,SJ2,10/26/16,7:00,7:50,Collection,25.1,27.2,few clouds,few clouds,,SB
+2016,SJ1,10/26/16,11:31,12:24,Collection,29.4,31.5,few clouds,few clouds,,SB
+2509,SJ1,10/26/16,14:09,15:38,MF,30.5,31.8,few clouds,few clouds,,SB
+2211,RB1,10/28/16,14:18,15:37,Fruit survey,23.3,24.7,cloudy,cloudy,,SB
+2019,RB1,10/29/16,7:02,8:07,Collection,22.8,25.5,cloudy,cloudy,,SB
+2510,RB1,10/29/16,8:22,11:15,MF,26.1,29.9,cloudy,clear,,SB
+2020,RB1,10/29/16,11:30,12:32,Collection,29,28,clear,clear,,SB
+2511,RB2,10/29/16,15:09,na,MF,31.3,na,clear,na,,SB
+2022,RB2,10/29/16,11:26,12:19,Collection,28.9,32.2,clear,clear,,SB
+2608,RB1,10/28/16,14:00,16:00,Banana stems,na,na,na,na,,SB
+2609,RB2,10/28/16,16:00,18:00,Banana stems,na,na,na,na,,SB
+2212,CC2,10/30/16,8:49,10:24,Fruit survey,26.2,29.3,clear,clear,,SB
+2212,RB2,10/28/16,14:18,15:37,Fruit survey,23.3,24.7,clear,clear,,SB
+2214,CC1,10/30/16,12:21,13:33,Fruit survey,33.5,30.8,clear,clear,,
+2610,CC2,10/30/16,13:33,14:45,Banana stems,30.8,31,clear,clear,,
+2025,CC2,10/31/16,6:55,8:12,Collection,23,26.2,clear,clear,,
+2023,CC1,10/31/16,7:00,7:50,Collection,23,26.2,clear,clear,,
+2512,CC1,10/31/16,8:36,10:27,MF,27.7,32.2,clear,clear,,
+2026,CC2,10/31/16,11:28,12:32,Collection,33.2,34.9,clear,clear,,
+2024,CC1,10/31/16,11:26,12:10,Collection,31.7,33.2,clear,clear,,
+2513,CC2,10/31/16,13:07,14:29,MF,33.5,34.2,clear,clear,,
+2215,SJ2,11/2/16,10:00,13:21,Fruit survey,28.1,33,cloudy,clear,,
+2611,SJ2,11/2/16,11:45,13:21,Banana stems,33,33,clear,clear,,
+2216,SJ1,11/2/16,15:00,17:34,Fruit survey,32.4,26.3,clear,cloudy,,
+2612,SJ1,11/2/16,16:00,16:17,Banana stems,27.5,27.5,cloudy,cloudy,,
+2027,SJ1,11/3/16,6:58,8:02,Collection,24.1,23.9,cloudy,cloudy,,
+2514,SJ2,11/3/16,8:28,10:27,MF,26.4,28.7,cloudy,cloudy,,
+2028,SJ1,11/3/16,11:27,12:33,Collection,25.5,25.8,cloudy,light rain,,
+2029,SJ2,11/3/16,7:00,8:00,Collection,26,24.1,cloudy,cloudy,,
+2030,SJ2,11/3/16,11:28,12:11,Collection,24.7,24.6,light rain,light rain,,
+2515,SJ1,11/3/16,15:10,16:40,MF,25.4,28.2,cloudy,clear,,
+2615,RB2,11/4/16,16:40,17:00,Banana stems,25.8,25.8,light rain,light rain,,
+2614,RB1,11/4/16,17:08,17:34,Banana stems,25.8,25.9,light rain,light rain,,
+2031,RB1,11/5/16,6:58,8:12,Collection,23.7,24.9,cloudy,cloudy,,
+2516,RB2,11/5/16,8:34,11:12,MF,25.1,25.6,cloudy,light rain,,
+2032,RB1,11/5/16,11:25,12:31,Collection,28.4,26.1,light rain,cloudy,,
+2033,RB2,11/5/16,7:00,8:00,Collection,24.2,24.9,cloudy,cloudy,,
+2034,RB2,11/5/16,11:30,12:20,Collection,25.5,25.8,light rain,cloudy,,
+2216,RB2,11/5/16,8:34,11:15,Fruit survey,25.1,25.6,cloudy,cloudy,,
+2217,RB1,11/5/16,15:05,17:52,Fruit survey,27,26.4,semi cloudy,cloudy,,
+2517,RB1,11/5/16,15:05,17:52,MF,27,26.4,semi cloudy,cloudy,,
+2219,CC1,11/6/16,10:50,12:20,Fruit survey,29.1,28.9,cloudy,semi cloudy,,
+2616,CC1,11/6/16,12:50,13:03,Banana stems,28.8,30.2,semi cloudy,semi cloudy,,
+2220,CC2,11/6/16,13:43,15:16,Fruit survey,33,31.3,semi cloudy,semi cloudy,,
+2617,CC2,11/6/16,15:16,15:33,Banana stems,31.3,31.3,few clouds,few clouds,,
+2037,CC2,11/7/16,6:58,8:10,Collection,23.1,24.3,semi cloudy,cloudy,,
+2518,CC2,11/7/16,8:28,10:07,MF,25.8,27.6,cloudy,few clouds,,
+2038,CC2,11/7/16,11:27,12:21,Collection,30.8,33,clear,clear,,
+2519,CC1,11/7/16,13:02,14:17,MF,32.9,34.3,clear,clear,,
+2221,SJ1,11/10/16,10:11,11:15,Fruit survey,27.5,27.3,few clouds,heavy rain ,,
+2618,SJ1,11/10/16,10:50,11:11,Banana stems,27.3,27.3,cloudy,med. rain,,
+2222,SJ2,11/10/16,15:48,17:40,Fruit survey,27.8,28.7,few clouds,cloudy,,
+2619,SJ2,11/10/16,17:30,17:52,Banana stems,27,29,semi cloudy,cloudy,,
+2039,SJ1,11/11/16,6:58,8:05,Collection,24.3,28,cloudy,cloudy,,
+2520,SJ2,11/11/16,8:26,10:30,MF,27.3,28.5,cloudy,cloudy,,
+2040,SJ1,11/11/16,11:26,12:28,Collection,28.9,29.9,cloudy,cloudy,,
+2521,SJ1,11/11/16,13:36,15:35,MF,28.5,23.9,cloudy,cloudy,,
+2223,RB2,11/12/16,10:07,12:06,Fruit survey,29.2,32,clear,few clouds,,
+2224,RB1,11/12/16,15:25,17:15,Fruit survey,30.6,28.8,clear,few clouds,,
+2620,RB1,11/12/16,17:15,17:25,Banana stems,28.8,28.8,few clouds,few clouds,,
+2621,RB2,11/12/16,11:50,12:06,Banana stems,32,33,clear,clear,,
+2043,RB1,11/13/16,5:51,8:08,Collection,25.3,26.8,clear,clear,,
+2522,RB1,11/13/16,8:16,10:50,MF,27.5,31.1,clear,clear,,
+2044,RB1,11/13/16,11:22,12:31,Collection,32,31.7,semi cloudy,few clouds,,
+2041,SJ2,11/11/16,7:00,7:59,Collection,23.4,25.4,cloudy,cloudy,,
+2042,SJ2,11/11/16,11:30,12:05,Collection,27.1,29.8,cloudy,semi cloudy,,
+2045,RB2,11/13/16,6:55,?,Collection,25.1,,clear,,,
+2646,RB2,11/13/16,11:26,12:10,Collection,31.7,32.3,clear,clear,,
+2523,RB2,11/13/16,15:17,17:20,MF,32.7,30.5,few clouds,semi cloudy,,
+2225,RB1,11/16/16,15:49,17:00,Fruit survey,31.3,30.8,few clouds,few clouds,,
+2226,RB2,11/16/16,17:05,17:29,Fruit survey,30.8,30.4,few clouds,few clouds,,
+2047,RB1,11/17/16,6:58,8:12,Collection,25.1,27.9,semi cloudy,clear,,
+2049,RB2,11/17/16,6:55,7:50,Collection,26.2,25.5,few clouds,clear,,
+2524,RB1,11/17/16,8:20,10:41,MF,27.3,29.2,clear,few clouds,,
+2048,RB1,11/17/16,11:26,12:31,Collection,30.7,32.6,few clouds,few clouds,,
+2525,RB2,11/17/16,15:18,17:19,MF,33.2,29.3,cloudy,cloudy,,
+2050,RB2,11/17/16,11:24,12:10,Collection,30,33.9,clear,clear,,
+2227,CC1,11/18/16,8:22,9:30,Fruit survey,24.2,25.6,cloudy,cloudy,,
+2228,CC1,11/18/16,9:42,10:38,Fruit survey,25.6,24.8,cloudy,cloudy,,
+2229,SJ2,11/18/16,13:59,15.01,Fruit survey,28.8,28.4,few clouds,few clouds,,
+2230,SJ1,11/18/16,15:21,16:17,Fruit survey,28.4,30.8,few clouds,clear,,

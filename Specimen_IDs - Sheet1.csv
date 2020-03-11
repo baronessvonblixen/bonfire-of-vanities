@@ -1,0 +1,724 @@
+Essig_ID,CollE,Chakra,Tree,Storage,Order,Family,Sex
+1166083,2016,SJ1,11,"TB101 (1,1)",Hymen,Platy,
+1166084,2016,SJ1,11,"TB101 (1,2) ",Diptera,Cecido ,Female
+1166085,2016,SJ1,10,"TB101 (1,3)",Diptera,Cera,
+1166086,2016,SJ1,10,"TB101 (1,4) ",Diptera,Cecido,Male
+1166087,2016,SJ1,10,"TB101 (1,5) ",Diptera,Cecido,Female
+1166088,2016,SJ1,10,"TB101 (1,6) ",Diptera,Cecido,Female
+1166089,2016,SJ1,10,"TB101 (1,7) ",Diptera,Cecido,
+1166090,2016,SJ1,13,"TB101 (1,8)",Diptera,Cecido,Female
+1166091,2016,SJ1,13,"TB101 (2,1) ",Hemip,Aphid,
+1166092,2016,SJ1,13,"TB101 (1,9) ",Hemip,,
+1166093,2016,SJ1,13,"TB101 (2,2)",Unidentified,,
+1166094,2016,SJ1,2,"TB101 (2,3) ",Hemip,Aphid,
+1166095,2016,SJ1,2,"TB101 (2,4) ",Hymen,Formicid,
+1166096,2016,SJ1,2,"TB101 (2,5) ",Hemip,Aphid,
+1166097,2016,SJ1,2,"TB101 (2,6)",Hemip,Aphid,
+1166098,2016,SJ1,2,"TB101 (2,7)",Hemip,Aphid,
+1166099,2016,SJ1,2,"TB101 (2,8) ",Hemip,Aphid,
+1166100,2016,SJ1,2,"TB101 (2,9) ",Hymen,Formicid,
+1166101,2017,SJ2,9,"TB101 (3,1)",Hymen,Platy,
+1166102,2017,SJ2,1,"TB101 (3,2)",Diptera,Cecido,
+1166103,2017,SJ2,1,"TB101 (3,3) ",Diptera,Cecido,Female
+1166104,2017,SJ2,1,"TB101 (3,4) ",Diptera,Cecido,Female
+1166105,2017,SJ2,3,"TB101 (3,5)",Diptera,Cecido,
+1166106,2017,SJ2,3,"TB101 (3,6)",Diptera,Cecido,
+1166107,2017,SJ2,3,"TB101 (3,7)",Hymen,Platy,
+1166108,2017,SJ2,3,"TB101 (3,8)",Hemip,OH,
+1166109,2017,SJ2,11,"TB101 (3,9)",Arachnid,,
+1166110,2017,SJ2,11,"TB101 (4,1)",Diptera,Cecido,
+1166111,2017,SJ2,11,"TB101 (4,2)",Hymen,Parasitoid,
+1166112,2017,SJ2,11,"TB101 (4,3)",Hymen,Parasitoid,
+1166113,2017,SJ2,11,"TB101 (4,4)",Arachnid,,
+1166114,2017,SJ2,8,"TB101 (4,5)",Diptera,Cera,
+1166115,2017,SJ2,8,"TB101 (4,6)",Hymen,Formicid,
+1166116,2017,SJ2,7,"TB101 (4,7)",Diptera,,
+1166117,2017,SJ2,7,"TB101 (4,8)",Diptera,Cecido,
+1166118,2017,SJ2,7,"TB101 (4,9)",Diptera,Cecido,
+1166119,2017,SJ2,7,"TB101 (5,1)",Hymen,Parasitoid,
+1166120,2017,SJ2,7,"TB101 (5,2)",Diptera,Cera,
+1166121,2018,SJ2,3,"TB101 (5,3)",Diptera,Cecido,
+1166122,2018,SJ2,3,"TB101 (5,4)",Diptera,Cecido,Female
+1166123,2018,SJ2,3,"TB101 (5,5)",Hymen,Formicid,
+1166124,2018,SJ2,3,"TB101 (5,6)",Diptera,Cecido,
+1166125,2018,SJ2,3,"TB101 (5,7)",Diptera,Cera,
+1166126,2018,SJ2,3,"TB101 (5,8)",Diptera,Cecido ,Female
+1166127,2018,SJ2,3,"TB101 (5,9)",Hemip,OH,
+1166128,2018,SJ2,1,"TB101 (6,1)",Diptera,Cecido,
+1166129,2018,SJ2,1,"TB101 (6,2) ",Diptera,Chiro ,
+1166130,2018,SJ2,1,"TB101 (6,3) ",Hymen,Platy,
+1166131,2018,SJ2,1,"TB101 (6,4)",Diptera,Cecido,
+1166132,2603R,RB1,LB,"TB101 (6,5) ",Hymen,Formicid,
+1166133,2603R,RB1,LB,"TB101 (6,6) ",Hymen,Formicid,
+1166134,2603R,RB1,LB,"TB101 (6,7) ",Hymen,Formicid,
+1166135,2603R,RB1,LB,"TB101 (6,8) ",Hymen,Formicid,
+1166136,2603R,RB1,LB,"TB101 (6,9) ",Hymen,Formicid,
+1166137,2014,CC2,3,"TB101 (7,1) ",Diptera,Cecido,
+1166138,2014,CC2,5,"TB101 (7,2) ",Hymen,Formicid,
+1166139,2014,CC2,5,"TB101 (7,3) ",Hymen,Formicid,
+1166140,2014,CC2,7,"TB101 (7,4) ",Diptera,Cecido,
+1166141,2014,CC2,9,"TB101 (7,5) ",Diptera,Cecido,
+1166142,2014,CC2,9,"TB101 (7,6) ",Diptera,Cecido,Male
+1166143,2014,CC2,9,"TB101 (7,7) ",Diptera,Cecido,Female
+1166144,2014,CC2,9,"TB101 (7,8) ",Diptera,Cecido,Female
+1166145,2014,CC2,10,"TB101 (7,9) ",Diptera,Cecido,Male
+1166146,2014,CC2,10,"TB101 (8,1) ",Diptera,Cecido,Female
+1166147,2014,CC2,10,"TB101 (8,2) ",Hymen,Formicid,
+1166148,2014,CC2,10,"TB101 (8,3) ",Unknown,,
+1166149,2014,CC2,11,"TB101 (8,4) ",Diptera,Cecido,Female
+1166150,2014,CC2,8,"TB101 (8,5) ",Diptera,Cecido,Female
+1166151,2014,CC2,8,"TB101 (8,6) ",Diptera,Cecido,Male
+1166152,2014,CC2,8,"TB101 (8,7) ",Hymen,Platy,
+1166153,2014,CC2,8,"TB101 (8,8)",Diptera,Cecido,Female
+1166154,2014,CC2,8,"TB101 (8,9)",Diptera,Cecido,Female
+1166155,2014,CC2,8,"TB101 (9,1)",Diptera,Cecido,Female
+1166156,2014,CC2,8,"TB101 (9,2)",Diptera,Cecido,Female
+1166157,2014,CC2,8,"TB101 (9,3)",Hymen,Platy,
+1166158,2013,CC2,5,"TB101 (9,4)",Diptera,Cecido,Female
+1166159,2013,CC2,5,"TB101 (9,5)",Diptera,Cecido,Female
+1166160,2013,CC2,3,"TB101 (9,6)",Diptera,Cecido,Female
+1166161,2013,CC2,2,"TB101 (9,7)",Diptera,Cecido,Male
+1166162,2011,CC1,3,"TB101 (9,8)",Hymen,Formicid,
+1166163,2011,CC1,3,"TB101 (9,9)",Hemip,,
+1166164,2011,CC1,3,"TB103 (1,1)",Diptera,Cecido,
+1166165,2011,CC1,3,"TB103 (1,2)",Hemip,,
+1166166,2011,CC1,3,"TB103 (1,3)",Diptera,Cecido,
+1166167,2012,CC1,12,"TB103 (1,4)",Hymen,Formicid,
+1166168,2012,CC1,12,"TB103 (1,5)",Hemip,Aphid,
+1166169,2012,CC1,12,"TB103 (1,6)",Hemip,Aphid,
+1166170,2012,CC1,12,"TB103 (1,7)",Hemip,Aphid,
+1166171,2012,CC1,12,"TB103 (1,8)",Hymen,Formicid,
+1166172,2012,CC1,12,"TB103 (1,9)",Hymen,Formicid,
+1166173,2012,CC1,3,"TB103 (2,1)",Hymen,Formicid,
+1166174,2010,RB1,4,"TB103 (2,2)",Diptera,Cecido,Female
+1166175,2010,RB1,4,"TB103 (2,3)",Hymen,Formicid,
+1166176,2010,RB1,4,"TB103 (2,4)",Hymen,Formicid,
+1166177,2010,RB1,4,"TB103 (2,5)",Hymen,Formicid,
+1166178,2010,RB1,4,"TB103 (2,6)",Hymen,Formicid,
+1166179,2005,SJ1,6,"TB102 (7,1) ",Diptera,Cecido,
+1166180,2005,SJ1,6,"TB102 (7,2) ",Diptera,Cecido,Female
+1166181,2005,SJ1,6,"TB102 (7,3) ",Hymen,Formicid,
+1166182,2005,SJ1,6,"TB102 (7,4) ",Diptera,Cecido,Female
+1166183,2005,SJ1,6,"TB102 (7,5) ",Diptera,Cecido,Female
+1166184,2006,SJ1,3,"TB102 (7,6) ",Hemip,Fulgoro,
+1166185,2006,SJ1,7,"TB102 (7,7) ",Hemip,Aphid,
+1166186,2006,SJ1,7,"TB102 (7,8) ",Hemip,Aphid,
+1166187,2006,SJ1,7,"TB102 (7,9) ",Hymen,Platy,
+1166188,2006,SJ1,8,"TB103 (3,4)",Hymen,Platy,
+1166189,2006,SJ1,8,"TB103 (3,5)",Diptera,Cecido,
+1166190,2005,SJ1,5,"TB103 (3,6)",Diptera,Cecido,
+1166191,2005,SJ1,5,"TB103 (3,6)",Diptera,Cecido,
+1166192,2006,SJ1,2,"TB103 (3,7)",Thysan,,
+1166193,2006,SJ1,2,"TB103 (3,8)",Hemip,Aphid,
+1166194,2005,SJ1,7,"TB103 (3,9)",Diptera,Cecido,
+1166195,2005,SJ1,7,"TB103 (4,1)",Diptera,Cera,
+1166196,2005,SJ1,7,"TB103 (4,2)",Hymen,Platy,
+1166197,2005,SJ1,7,"TB103 (4,3)",Collembola,,
+1166198,2004,CC2,4,"TB103 (4,4)",Diptera,Cecido,
+1166199,2004,CC2,4,"TB103 (4,5)",Hymen,Platy,
+1166200,2004,CC2,2,"TB103 (4,6)",Hemip,Aphid,
+1166201,2004,CC2,2,"TB103 (4,6)",Hemip,Aphid,
+1166202,2004,CC2,2,"TB103 (4,7)",-,-,
+1166203,2004,CC2,6,"TB103 (4,8)",Diptera,Cecido,Female
+1166204,2007,SJ2,1,"TB103 (4,9)",Diptera,Cecido,Female
+1166205,2007,SJ2,1,"TB103 (5,1)",Diptera,Cecido,Female
+1166206,2008,SJ2,8,"TB103 (5,2)",Diptera,Cecido,Female
+1166207,2007,SJ2,7,"TB103 (5,3)",Diptera,Cecido,Female
+1166208,2007,SJ2,7,"TB103 (5,4)",Hymen,Formicid,
+1166209,2008,SJ2,2,"TB103 (5,5)",Diptera,Cera,
+1166210,2013,CC2,7,"TB102 (1,1) ",Diptera,Cecido,Female
+1166211,2013,CC2,7,"TB102 (1,2) ",Diptera,Cecido,Female
+1166212,2013,CC2,7,"TB102 (1,3) ",Diptera,Cecido,Female
+1166213,2012,CC1,11,"TB102 (1,4) ",Diptera,Cecido,Female
+1166214,2012,CC1,11,"TB102 (1,5) ",Diptera,Cecido,Female
+1166215,2012,CC1,11,"TB102 (1,6) ",Hymen,Platy,
+1166216,2012,CC1,11,"TB102 (1,7) ",Diptera,Cecido,
+1166217,2012,CC1,10,"TB102 (1,8) ",Diptera,Brach,
+1166218,2012,CC1,7,"TB102 (1,9) ",Diptera,Cecido,Male
+1166219,2012,CC1,7,"TB102 (2,1) ",Hymen,Platy,
+1166220,2012,CC1,7,"TB102 (2,2) ",Diptera,Cecido,
+1166221,2012,CC1,6,"TB102 (2,3) ",Diptera,Cecido,
+1166222,2012,CC1,4,"TB102 (2,4) ",Hymen,Formicid,
+1166223,2012,CC1,4,"TB102 (2,5) ",Diptera,Cecido,
+1166224,2012,RB1,5,"TB102 (2,6) ",Hymen,Platy,
+1166225,2012,RB1,5,"TB102 (2,7) ",Diptera,Cecido,
+1166226,2012,RB1,5,"TB102 (2,8) ",Hymen,Platy,
+1166227,2010,RB1,3,"TB102 (2,9) ",Hymen,Formicid,
+1166228,2010,RB1,3,"TB102 (3,1) ",Hymen,Formicid,
+1166229,2010,RB1,3,"TB102 (3,2) ",Hymen,Formicid,
+1166230,2010,RB1,1,"TB102 (3,3) ",Hemip,Sterno,
+1166231,2009,RB1,7,"TB102 (3,4) ",Diptera,Cecido,
+1166232,2009,RB1,6,"TB102 (3,5) ",Diptera,Cecido,Female
+1166233,2009,RB1,6,"TB102 (3,6) ",Diptera,Cecido,Male
+1166234,2009,RB1,6,"TB102 (3,7) ",Diptera,Cecido,Female
+1166235,2009,RB1,6,"TB102 (3,8) ",Diptera,Cecido,Female
+1166236,2009,RB1,6,"TB102 (3,9) ",Diptera,Cecido,Male
+1166237,2009,RB1,5,"TB102 (4,1) ",Diptera,Cera,
+1166238,2009,RB1,4,"TB102 (4,2) ",Hymen,Formicid,
+1166239,2009,RB1,4,"TB102 (4,3) ",Hymen,Formicid,
+1166240,2009,RB1,4,"TB102 (4,4) ",Diptera,Cecido,Male
+1166241,2009,RB1,4,"TB102 (4,5) ",Diptera,Cecido,Male
+1166242,2009,RB1,4,"TB102 (4,6) ",Diptera,Cecido,Male
+1166243,2009,RB1,4,"TB102 (4,7) ",Hymen,Formicid,
+1166244,2009,RB1,3,"TB102 (4,8) ",Diptera,Cecido,Male
+1166245,2009,RB1,3,"TB102 (4,9) ",Hymen,Formicid,
+1166246,2009,RB1,3,"TB102 (5,1) ",Diptera,Cecido,Male
+1166247,2009,RB1,2,"TB102 (5,2) ",Diptera,Cecido,Male
+1166248,2009,RB1,1,"TB102 (5,3) ",Hymen,Formicid,
+1166249,2009,RB1,1,"TB102 (5,4) ",Diptera,Cecido,Female
+1166250,2009,RB1,1,"TB102 (5,5) ",Hymen,Formicid,
+1166251,2009,RB1,1,"TB102 (5,6) ",Diptera,Cecido,
+1166252,2009,RB1,1,"TB102 (5,7) ",Hymen,Formicid,
+1166253,2009,RB1,1,"TB102 (5,8) ",Hymen,Formicid,
+1166254,2006,SJ1,1,"TB102 (5,9) ",Diptera,-,
+1166255,2006,SJ1,1,"TB102 (6,1) ",Diptera,-,
+1166256,2006,SJ1,1,"TB102 (6,2) ",Diptera,Cecido,Male
+1166257,2006,SJ1,6,"TB102 (6,3) ",Diptera,Cera,
+1166258,2006,SJ1,6,"TB102 (6,4) ",Diptera,,
+1166259,2005,SJ1,1,"TB102 (6,5) ",Diptera,Cecido,Female
+1166260,2005,SJ1,1,"TB102 (6,6) ",Hymen,Platy,
+1166261,2005,SJ1,4,"TB102 (6,7) ",Hymen,Formacid,
+1166262,2005,SJ1,4,"TB102 (6,8) ",Diptera,Cecido,Female
+1166263,2005,SJ1,4,"TB102 (6,9) ",Hymen,Platy,
+1166264,2005,SJ1,2,"TB103 (2,7) ",Hymen,Formicid,
+1166265,2005,SJ1,2,"TB103 (2,8) ",Hemip,Fulgoro,
+1166266,2005,SJ1,2,"TB103 (2,9) ",Diptera,Cecido,Male
+1166267,2005,SJ1,2,"TB103 (3,1) ",Diptera,Chiro,
+1166268,2005,SJ1,2,"TB103 (3,2) ",Hemip,Aphid,
+1166269,2005,SJ1,2,"TB103 (3,3) ",Diptera,Cecido,Female
+1166270,2007,SJ2,2,"TB103 (5,6) ",Diptera,Cecido,Female
+1166271,2007,SJ2,4,"TB103 (5,7) ",Diptera,Cecido,Male
+1166272,2007,SJ2,4,"TB103 (5,8) ",Diptera,Cera,Male
+1166273,2008,SJ2,3,"TB103 (5,9) ",Diptera,Cecido,Female
+1166274,2008,SJ2,3,"TB103 (5,9) ",Diptera,Cecido,Female
+1166275,2003,CC2,6,"TB103 (6,1) ",Diptera,Cecido,Female
+1166276,2003,CC2,6,"TB103 (6,1) ",Diptera,Cecido,Female
+1166277,2003,CC2,6,"TB103 (6,1) ",Diptera,Cecido,Female
+1166278,2003,CC2,6,"TB103 (6,1) ",Diptera,Cecido,Male
+1166279,2003,CC2,4,"TB103 (6,2) ",Diptera,Cecido,Female
+1166280,2003,CC2,4,"TB103 (6,2) ",Diptera,Cecido,Female
+1166281,2003,CC2,4,"TB103 (6,2) ",Diptera,Cecido,Female
+1166282,2003,CC2,2,"TB103 (6,3) ",Diptera,Cecido,Male
+1166283,2004,CC2,3,"TB103 (6,4) ",Hymen,Formicid,
+1166284,2004,CC2,3,"TB103 (6,5) ",Hymen,Apocrita,
+1166285,2004,CC2,3,"TB103 (6,6) ",Diptera,Cecido,Female
+1166286,2003,CC2,5,"TB103 (6,7) ",Coleo,,
+1166287,2003,CC2,5,"TB103 (6,8) ",Diptera,Cecido,Female
+1166288,2003,CC2,5,"TB103 (6,8) ",Diptera,Cecido,Male
+1166289,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Female
+1166290,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Female
+1166291,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Female
+1166292,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Female
+1166293,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Male
+1166294,2003,CC2,7,"TB103 (6,9) ",Diptera,Cecido,Female
+1166295,2617,CC2,LN-G,"TB103 (7,1) ",Collembola,,
+1166296,2038,CC2,10,"TB103 (7,2) ",Hymen,,
+1166297,2035,CC1,7,"TB103 (7,3) ",Diptera,Cecido,Female
+1166298,2035,CC1,7,"TB103 (7,4) ",Hymen,Platy,
+1166299,2035,CC1,7,"TB103 (7,4) ",Hymen,Platy,
+1166300,2035,CC1,7,"TB103 (7,4) ",Hymen,Platy,
+1166301,2035,CC1,7,"TB103 (7,5) ",Hymen,Formicid,
+1166302,2614,RB1,NB-Y,"TB103 (7,6) ",Hymen,Formicid,
+1166303,2614,RB1,NB-Y,"TB103 (7,6) ",Hymen,Formicid,
+1166304,2614,RB1,NB-Y,"TB103 (7,6) ",Hymen,Formicid,
+1166305,2614,RB1,NB-Y,"TB103 (7,7) ",Collembola,,
+1166306,2614,RB1,NB-Y,"TB103 (7,7) ",Collembola,,
+1166307,2032,RB1,9,"TB103 (7,8) ",Hymen,Formicid,
+1166308,,,,,,,
+1166309,,,,,,,
+1166310,2007,SJ2,8,"TB104 (1,1) ",Hemip,Aphid,
+1166311,2008,SJ2,7,"TB104 (1,2) ",Arachnid,,
+1166312,2008,SJ2,1,"TB104 (1,3) ",Hymen,Parasitoid Wasp,
+1166313,2008,SJ2,4,"TB104 (1,4) ",Diptera,Cecido,Female
+1166314,2008,SJ2,4,"TB104 (1,4) ",Diptera,Cecido,Female
+1166315,2008,SJ2,4,"TB104 (1,5) ",Diptera,Cera,Male
+1166316,2008,SJ2,4,"TB104 (1,6) ",Hymen,Platy,
+1166317,2008,SJ2,4,"TB104 (1,7) ",Hemip,,
+1166318,2007,SJ2,3,"TB104 (1,8) ",Diptera,Cecido,Male
+1166319,2007,SJ2,3,"TB104 (1,8) ",Diptera,Cecido,Male
+1166320,2007,SJ2,3,"TB104 (1,8) ",Diptera,Cecido,Female
+1166321,2007,SJ2,3,"TB104 (1,9) ",Arachnid,,
+1166322,2007,SJ2,3,"TB104 (2,1) ",Hymen,Platy,
+1166323,2004,CC2,5,"TB104 (2,2) ",Hemip,Aphid,
+1166324,2004,CC2,5,"TB104 (2,3) ",Diptera,Cecido,Male
+1166325,2001,CC1,3,"TB104 (2,4) ",Diptera,Cecido,Male
+1166326,2001,CC1,3,"TB104 (2,4) ",Diptera,Cecido,Female
+1166327,2001,CC1,8,"TB104 (2,5) ",Diptera,Cecido,Female
+1166328,2001,CC1,8,"TB104 (2,5) ",Diptera,Cecido,Female
+1166329,2001,CC1,8,"TB104 (2,6) ",Hymen,Platy,
+1166330,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Male
+1166331,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Female
+1166332,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Female
+1166333,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Female
+1166334,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Female
+1166335,2001,CC1,1,"TB104 (2,7) ",Diptera,Cecido,Male
+1166336,2001,CC1,1,"TB104 (2,8) ",Hemip,Aphid,
+1166337,2001,CC1,1,"TB104 (2,8) ",Hemip,Aphid,
+1166338,2001,CC1,1,"TB104 (2,8) ",Hemip,Aphid,
+1166339,2001,CC1,1,"TB104 (2,8) ",Hemip,Aphid,
+1166340,2002,CC1,3,"TB104 (2,9)",Diptera,Cecido,Female
+1166341,2002,CC1,3,"TB104 (2,9)",Diptera,Cecido,Female
+1166342,2002,CC1,3,"TB104 (2,9)",Diptera,Cecido,Male
+1166343,2002,CC1,3,"TB104 (3,1)",Hemip,Fulgoro,
+1166344,2002,CC1,3,"TB104 (3,2)",Thysan,,
+1166345,2002,CC1,2,"TB104 (3,3)",Diptera,Cecido,Male
+1166346,2002,CC1,3,"TB104 (3,4)",Hemip,Aphid,
+1166347,2002,CC1,3,"TB104 (3,4)",Hemip,Aphid,
+1166348,2002,CC1,3,"TB104 (3,4)",Hemip,Aphid,
+1166349,2002,CC1,3,"TB104 (3,4)",Hemip,Aphid,
+1166350,2002,CC1,3,"TB104 (3,4)",Hemip,Aphid,
+1166351,2002,CC1,4,"TB104 (3,5)",Diptera,Cecido,Female
+1166352,2002,CC1,4,"TB104 (3,5)",Diptera,Cecido,Female
+1166353,2002,CC1,4,"TB104 (3,5)",Diptera,Cecido,Female
+1166354,2002,CC1,4,"TB104 (3,6)",Diptera,Cera,Male
+1166355,2002,CC1,4,"TB104 (3,7)",Thysan,,
+1166356,2001,CC1,4,"TB104 (3,8)",Hymen,Platy,
+1166357,2027,SJ1,2,"TB104 (3,9)",Hymen,Formicid,
+1166358,2027,SJ1,2,"TB104 (4,1)",Hemip,Aphid,
+1166359,2027,SJ1,2,"TB104 (4,2)",Diptera,Cecido,Female
+1166360,2028,SJ1,3,"TB104 (4,3)",Hemip,Fulgoro,
+1166361,2028,SJ1,3,"TB104 (4,4)",Diptera,Cecido,Male
+1166362,2028,SJ1,3,"TB104 (4,4)",Diptera,Cecido,Female
+1166363,2028,SJ1,3,"TB104 (4,4)",Diptera,Cecido,Female
+1166364,2612,SJ1,LB-R,"TB104 (4,5)",Collembola,,
+1166365,2033,RB2,3,"TB104 (4,6)",Diptera,Cecido,Male
+1166366,2033,RB2,3,"TB104 (4,6)",Diptera,Cecido,Female
+1166367,2033,RB2,3,"TB104 (4,6)",Diptera,Cecido,Female
+1166368,2033,RB2,3,"TB104 (4,6)",Diptera,Cecido,Male
+1166369,2034,RB2,7,"TB104 (4,7)",Diptera,Cecido,Female
+1166370,2034,RB2,7,"TB104 (4,7)",Diptera,Cecido,Male
+1166371,2032,RB1,5,"TB104 (4,8)",Diptera,Cecido,Female
+1166372,2032,RB1,5,"TB104 (4,8)",Diptera,Cecido,Male
+1166373,2032,RB1,5,"TB104 (4,9)",Hymen,Formicid,
+1166374,2614,RB1,LB-Y,"TB104 (5,1)",Colleo,,
+1166375,2614,RB1,LB-Y,"TB104 (5,2)",Hymen,Formicid,
+1166376,2614,RB1,LB-Y,"TB104 (5,2)",Hymen,Formicid,
+1166377,2036,CC1,1,"TB104 (5,3)",Diptera,Cera,Male
+1166378,2617,CC2,NB-W,"TB104 (5,4)",Collembola,,
+1166379,2038,CC2,2,"TB104 (5,5)",Lepid,,
+1166380,2027,SJ1,14,"TB104 (5,6)",Diptera,Cecido,Male
+1166381,2027,SJ1,14,"TB104 (5,6)",Diptera,Cecido,Male
+1166382,2027,SJ1,14,"TB104 (5,7)",Diptera,Cera,Male
+1166383,2028,SJ1,14,"TB104 (5,8)",Diptera,Cecido,Male
+1166384,2033,RB2,5,"TB104 (5,9)",Diptera,Cecido,Female
+1166385,2031,RB1,5,"TB104 (6,1)",Diptera,Cecido,Male
+1166386,2031,RB1,5,"TB104 (6,1)",Diptera,Cecido,Male
+1166387,2031,RB1,5,"TB104 (6,1)",Diptera,Cecido,Female
+1166388,2031,RB1,5,"TB104 (6,1)",Diptera,Cecido,Male
+1166389,2032,RB1,4,"TB104 (6,2)",Diptera,Cecido,Male
+1166390,2032,RB1,4,"TB104 (6,2)",Diptera,Cecido,Male
+1166391,2032,RB1,4,"TB104 (6,3)",Hymen,Formicid,
+1166392,2032,RB1,4,"TB104 (6,3)",Hymen,Formicid,
+1166393,2032,RB1,4,"TB104 (6,3)",Hymen,Formicid,
+1166394,2032,RB1,4,"TB104 (6,4)",Diptera,Cera,Male
+1166395,2615,RB2,LB-Y,"TB104 (6,5)",Collembola,,
+1166396,2615,RB2,LB-Y,"TB104 (6,6)",,,
+1166397,2036,CC1,17,"TB104 (6,7)",Diptera,Cecido,Female
+1166398,2037,CC2,16,"TB104 (6,8)",Diptera,Cecido,
+1166399,2037,CC2,16,"TB104 (6,8)",Diptera,Cecido,Male
+1166400,LB-Y,CC2,16,"TB104 (6,8)",Diptera,Cecido,Female
+1166401,LB-Y,CC2,16,"TB104 (6,8)",Diptera,Cecido,Male
+1166402,2038,CC2,9,"TB104 (6,9)",Diptera,Cecido,Female
+1166403,2038,CC2,9,"TB104 (7,1)",Lepid,,
+1166404,2027,SJ1,13,"TB104 (7,2)",Diptera,Cecido,Female
+1166405,2612,SJ1,NN-Y,"TB104 (7,3)",,,
+1166406,2612,SJ1,NN-Y,"TB104 (7,4)",Collembola,,
+1166407,2613,SJ2,LN-Y,"TB104 (7,5)",Derma,,
+1166408,2613,SJ2,LN-Y,"TB104 (7,6)",,,
+1166409,2613,SJ2,LN-Y,"TB104 (7,7)",Collembola,,
+1166410,2033,RB2,7,"TB104 (7,8)",Hymen,Parasitoid wasp,
+1166411,2033,RB2,7,"TB104 (7,9)",Diptera,Cecido,Female
+1166412,2033,RB2,7,"TB104 (7,9)",Diptera,Cecido,Male
+1166413,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Female
+1166414,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Male
+1166415,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Male
+1166416,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Female
+1166417,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Female
+1166418,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Female
+1166419,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Male
+1166420,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Female
+1166421,2031,RB1,1,"TB104 (8,1)",Diptera,Cecido,Male
+1166422,2031,RB1,1,"TB104 (8,2)",Diptera,Cecido,Male
+1166423,2032,RB1,7,"TB104 (8,3)",Hymen,Formicid,
+1166424,3025,CC1,1,"TB104 (8,4)",Diptera,Cecido,Female
+1166425,3025,CC1,1,"TB104 (8,4)",Diptera,Cecido,Female
+1166426,2616,CC1,LB-Y,"TB104 (8,5)",,,
+1166427,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Male
+1166428,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Male
+1166429,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Female
+1166430,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Female
+1166431,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Female
+1166432,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Female
+1166433,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Female
+1166434,2037,CC2,15,"TB104 (8,6)",Diptera,Cecido,Male
+1166435,2041,SJ2,6,"TB104 (8,7)",Diptera,Cecido,Female
+1166436,2041,SJ2,6,"TB104 (8,7)",Diptera,Cecido,Male
+1166437,2041,SJ2,6,"TB104 (8,7)",Diptera,Cecido,Female
+1166438,2027,SJ1,12,"TB104 (8,8)",Diptera,Chiro,Male
+1166439,2027,SJ1,12,"TB104 (8,9)",Hemip,Aphid,
+1166440,2612,SJ1,NB-Y,"TB104 (9,1)",Diptera,Cera,Male
+1166441,2612,SJ1,NB-Y,"TB104 (9,1)",Diptera,Cera,Male
+1166442,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166443,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166444,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166445,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166446,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166447,2612,SJ1,NB-Y,"TB104 (9,1)",,Cera,Male
+1166448,2612,SJ1,NB-Y,"TB104 (9,2)",Hymen,Formicid,
+1166449,2613,SJ2,NB-Y,"TB104 (9,3)",,,
+1166450,2616,CC1,LB-G,"TB104 (9,4)",,,
+1166451,2616,CC1,LB-G,"TB104 (9,5)",,,
+1166452,2037,CC2,9,"TB104 (9,6)",Diptera,Cecido,Male
+1166453,2037,CC2,9,"TB104 (9,6)",,Cecido,Female
+1166454,2037,CC2,9,"TB104 (9,6)",,Cecido,Female
+1166455,2037,CC2,9,"TB104 (9,6)",,Cecido,Female
+1166456,2037,CC2,9,"TB104 (9,7)",Hymen,Platy,
+1166457,2037,CC2,9,"TB104 (9,8)",Hymen,Formicid,
+1166458,2041,SJ2,9,"TB106 (1,1)",Diptera,Cecido,Female
+1166459,2041,SJ2,9,"TB106 (1,1)",Diptera,Cecido,Male
+1166460,2041,SJ2,9,"TB106 (1,1)",Diptera,Cecido,Female
+1166461,2041,SJ2,9,"TB106 (1,1)",Diptera,Cecido,Male
+1166462,2041,SJ2,9,"TB106 (1,1)",Diptera,Cecido,Male
+1166463,2041,SJ2,9,"TB106 (1,2)",Diptera,Cecido,Male
+1166464,2041,SJ2,9,"TB106 (1,3) ",Coleo,,
+1166465,2034,RB2,3,"TB106 (1,4) ",Diptera,Cecido,Male
+1166466,2034,RB2,3,"TB106 (1,4) ",Diptera,Cecido,Female
+1166467,2034,RB2,3,"TB106 (1,5) ",Hymen,Formicid,
+1166468,2031,RB1,9,"TB106 (1,6) ",Hymen,Platy,
+1166469,2028,SJ1,9,"TB106 (1,7) ",Diptera,Cera,Male
+1166470,2028,SJ1,9,"TB106 (1,8) ",,,
+1166471,2612,SJ1,NN-G,"TB106 (1,9) ",Coleo,,
+1166472,2612,SJ1,NN-G,"TB106 (1,9) ",Coleo,,
+1166473,2612,SJ1,NN-G,"TB106 (2,1) ",Hymen,Formicid,
+1166474,2613,SJ2,LB-R,"TB106 (2,2)",Coleo,,
+1166475,2613,SJ2,LB-R,"TB106 (2,3)",Collembola,,
+1166476,2613,SJ2,LB-R,"TB106 (2,3)",Collembola,,
+1166477,2613,SJ2,LB-R,"TB106 (2,4)",Hymen,Formicid,
+1166478,2613,SJ2,LB-R,"TB106 (2,4)",Hymen,Formicid,
+1166479,2613,SJ2,LB-R,"TB106 (2,5)",Coleo,,
+1166480,2613,SJ2,LB-R,"TB106 (2,6)",Thysan,,
+1166481,2613,SJ2,LB-R,"TB106 (2,7)",,,
+1166482,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Male
+1166483,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Female
+1166484,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Female
+1166485,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Female
+1166486,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Male
+1166487,2028,SJ1,11,"TB106 (2,8)",Diptera,Cecido,Female
+1166488,2612,SJ1,NB-G,"TB106 (2,9)",Diptera,Brachy,
+1166489,2612,SJ1,NB-G,"TB106 (2,9)",Diptera,Brachy,
+1166490,2033,RB2,1,"TB106 (3,1)",Diptera,Cecido,Male
+1166491,2033,RB2,1,"TB106 (3,1)",Diptera,Cecido,Female
+1166492,2033,RB2,1,"TB106 (3,1)",Diptera,Cecido,Female
+1166493,2033,RB2,1,"TB106 (3,1)",Diptera,Cecido,Male
+1166494,2033,RB2,1,"TB106 (3,1)",Diptera,Cecido,Male
+1166495,2034,RB2,5,"TB106 (3,2)",Diptera,Cera,
+1166496,2034,RB2,5,"TB106 (3,2)",Diptera,Cera,
+1166497,2032,RB1,1,"TB106 (3,3)",Diptera,Cecido,Female
+1166498,2032,RB1,1,"TB106 (3,3)",Diptera,Cecido,Female
+1166499,2032,RB1,1,"TB106 (3,3)",,Cecido,Female
+1166500,2032,RB1,1,"TB106 (3,3)",,Cecido,Male
+1166501,2032,RB1,1,"TB106 (3,3)",,Cecido,Female
+1166502,2032,RB1,1,"TB106 (3,3)",,Cecido,Female
+1166503,2032,RB1,1,"TB106 (3,3)",,Cecido,Male
+1166504,2032,RB1,1,"TB106 (3,3)",,Cecido,Male
+1166505,2614,RB1,NN-Y,"TB106 (3,4)",Hemip,,
+1166506,2614,RB1,NN-Y,"TB106 (3,5)",Coleo,,
+1166507,2035,CC1,14,"TB106 (3,6)",Diptera,Cecido,Male
+1166508,2035,CC1,14,"TB106 (3,6)",,Cecido,Female
+1166509,2035,CC1,14,"TB106 (3,6)",,Cecido,Female
+1166510,2035,CC1,14,"TB106 (3,6)",,Cecido,Female
+1166511,2035,CC1,14,"TB106 (3,6)",,Cecido,Male
+1166512,2035,CC1,14,"TB106 (3,6)",,Cecido,Male
+1166513,2035,CC1,14,"TB106 (3,6)",,Cecido,Male
+1166514,2035,CC1,14,"TB106 (3,6)",,Cecido,Female
+1166515,2035,CC1,14,"TB106 (3,6)",,Cecido,Female
+1166516,2035,CC1,14,"TB106 (3,7)",Hymen,Parasitoid Wasp,
+1166517,2035,CC1,14,"TB106 (3,8)",Hymen,Formicid,
+1166518,2049,RB2,10,"TB106 (3,9)",Diptera,Cecido,Female
+1166519,2049,RB2,16,"TB106 (4,1)",Diptera,Cecido,Male
+1166520,2049,RB2,14,"TB106 (4,2)",Hymen,Parasitoid Wasp,
+1166521,2049,RB2,14,"TB106 (4,3)",Hemip,,
+1166522,2050,RB2,10,"TB106 (4,4)",Hymen,Formicid,
+1166523,2050,RB2,14,"TB106 (4,5)",Hymen,Platy,
+1166524,2050,RB2,9,"TB106 (4,6)",Hymen,Parasitoid Wasp,
+1166525,2050,RB2,15,"TB106 (4,7)",Diptera,Cecido,Female
+1166526,2047,RB1,17,"TB106 (4,8)",Diptera,Cecido,
+1166527,2047,RB1,17,"TB106 (4,8)",Diptera,Cecido,Male
+1166528,2047,RB1,17,"TB106 (4,8)",Diptera,Cecido,Female
+1166529,2047,RB1,17,"TB106 (4,8)",Diptera,Cecido,Female
+1166530,2047,RB1,17,"TB106 (4,8)",Diptera,Cecido,Male
+1166531,2047,RB1,20,"TB106 (4,9)",Diptera,Cecido,Female
+1166532,2047,RB1,20,"TB106 (4,9)",,Cecido,Female
+1166533,2047,RB1,20,"TB106 (4,9)",,Cecido,Male
+1166534,2047,RB1,20,"TB106 (4,9)",,Cecido,Male
+1166535,2047,RB1,20,"TB106 (4,9)",,Cecido,Female
+1166536,2047,RB1,20,"TB106 (4,9)",,Cecido,Female
+1166537,2047,RB1,20,"TB106 (5,1)",Diptera,Brachy,
+1166538,2621,RB2,NN-G,"TB106 (5,2)",Collembola,,
+1166539,2621,RB2,NN-G,"TB106 (5,3)",Collembola,,
+1166540,2621,RB2,NN-G,"TB106 (5,3)",,,
+1166541,2621,RB2,NN-G,"TB106 (5,4)",Hymen,Formicid,
+1166542,2621,RB2,NB-G,"TB106 (5,5)",Diptera,Cera,Male
+1166543,2621,RB2,LB-G,"TB106 (5,6)",Collembola,,
+1166544,2621,RB2,NN-Y,"TB106 (5,7)",,,
+1166545,2621,RB2,NN-Y,"TB106 (5,7)",Collembola,,
+1166546,2621,RB2,NN-Y,"TB106 (5,8)",Hymen,Formicid,
+1166547,2621,RB2,NB-Y,"TB106 (5,9)",Collembola,,
+1166548,2621,RB2,NB-Y,"TB106 (6,1)",Arachnid,,
+1166549,2621,RB2,LN-Y,"TB106 (6,2)",,,
+1166550,2621,RB2,LN-Y,"TB106 (6,3)",Diptera,Chiro,Male
+1166551,2621,RB2,LN-Y,"TB106 (6,4)",Hymen,Formicid,
+1166552,2045,RB2,12,"TB106 (6,5)",Diptera,Cera,Male
+1166553,2045,RB2,12,"TB106 (6,6)",Hymen,Platy,
+1166554,2045,RB2,13,"TB106 (6,7)",Diptera,Cera,Male
+1166555,2045,RB2,15,"TB106 (6,8)",Diptera,Cecido,Female
+1166556,2045,RB2,15,"TB106 (6,9)",Hymen,Parasitoid Wasp,
+1166557,2045,RB2,16,"TB106 (7,1)",Diptera,Cecido,Female
+1166558,2045,RB2,16,"TB106 (7,1)",Diptera,Cecido,Male
+1166559,2045,RB2,16,"TB106 (7,1)",Diptera,Cecido,Male
+1166560,2034,RB2,6,"TB103 (7,9)",Hymen,Parasitoid Wasp,
+1166561,2034,RB2,6,"TB103 (7,9)",Hymen,Parasitoid Wasp,
+1166562,2034,RB2,6,"TB103 (7,9)",Hymen,Parasitoid Wasp,
+1166563,2034,RB2,6,"TB103 (8,1)",Diptera,Cecido,Male
+1166564,2033,RB2,2,"TB103 (8,2)",Diptera,Cecido,Female
+1166565,2033,RB2,2,"TB103 (8,2)",Diptera,Cecido,Female
+1166566,2612,SJ1,LN-G,"TB103 (8,3)",Coleo,,
+1166567,2028,SJ1,2,"TB103 (8,4)",Chiro,,
+1166568,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Male
+1166569,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,
+1166570,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Female
+1166571,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Female
+1166572,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Female
+1166573,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Male
+1166574,2027,SJ1,11,"TB103 (8,5)",Diptera,Cecido,Male
+1166575,2028,SJ1,5,"TB103 (8,6)",Diptera,Cecido,Female
+1166576,2028,SJ1,5,"TB103 (8,6)",Diptera,Cecido,Female
+1166577,2028,SJ1,5,"TB103 (8,6)",Diptera,Cecido,Male
+1166578,2028,SJ1,5,"TB103 (8,6)",Diptera,Cecido,Male
+1166579,2613,SJ2,LB-Y,"TB103 (8,7)",Collembola,,
+1166580,2033,RB2,6,"TB103 (8,8)",Diptera,Cecido,Male
+1166581,2033,RB2,6,"TB103 (8,8)",Diptera,Cecido,Female
+1166582,2033,RB2,6,"TB103 (8,8)",Diptera,Cecido,Female
+1166583,2033,RB2,6,"TB103 (8,9)",Hymen,Platy,
+1166584,2031,2031,12,"TB103 (9,1)",Diptera,Cecido,Female
+1166585,2031,2031,12,"TB103 (9,1)",Diptera,Cecido,Female
+1166586,2031,2031,12,"TB103 (9,2)",Hymen,Formicid,
+1166587,2031,2031,12,"TB103 (9,2)",Hymen,Formicid,
+1166588,2032,2032,2,"TB103 (9,3)",Hymen,Formicid,
+1166589,2032,2032,2,"TB103 (9,4)",Diptera,Cecido,Male
+1166590,2615,2615,LN-Y,"TB103 (9,5)",,,
+1166591,2615,2615,LN-Y,"TB103 (9,5)",,,
+1166592,2036,2036,7,"TB103 (9,6)",Diptera,Cecido,Female
+1166593,2037,CC2,2,"TB103 (9,7)",Diptera,Cecido,Male
+1166594,2041,SJ2,2,"TB103 (9,8)",Diptera,Cecido,Female
+1166595,2041,SJ2,2,"TB103 (9,8)",Diptera,Cecido,Female
+1166596,2615,RB2,NN-G,"TB103 (9,9)",Collembola,Cecido,
+1166597,2033,RB2,8,"TB105 (1,1)",Diptera,Cecido,Female
+1166598,2033,RB2,8,"TB105 (1,1)",Diptera,Cecido,Male
+1166599,2033,RB2,8,"TB105 (1,1)",Diptera,Cecido,Female
+1166600,2033,RB2,8,"TB105 (1,1)",Diptera,Cecido,
+1166601,2031,RB1,7,"TB105 (1,2)",Diptera,Cecido,Female
+1166602,2035,CC1,15,"TB105 (1,3)",Diptera,Cecido,
+1166603,2035,CC1,15,"TB105 (1,3)",Diptera,Cecido,
+1166604,2035,CC1,15,"TB105 (1,3)",Diptera,Cecido,
+1166605,2035,CC1,15,"TB105 (1,4)",Diptera,Chiro,
+1166606,2616,CC1,NN-G,"TB105 (1,5)",Hymen,Formicid,
+1166607,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Female
+1166608,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Male
+1166609,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Male
+1166610,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Male
+1166611,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Female
+1166612,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Female
+1166613,2037,CC2,11,"TB105 (1,6)",Diptera,Cecido,Female
+1166614,2037,CC2,11,"TB105 (1,7)",Hymen,Platy,
+1166615,2037,CC2,11,"TB105 (1,7)",Hymen,Platy,
+1166616,2037,CC2,11,"TB105 (1,8)",,,
+1166617,2041,SJ2,17,"TB105 (1,9)",Diptera,Cecido,Female
+1166618,2041,SJ2,17,"TB105 (1,9)",Diptera,Cecido,Female
+1166619,2041,SJ2,17,"TB105 (1,9)",Diptera,Cecido,Female
+1166620,2028,SJ2,12,"TB105 (2,1)",Diptera,Psychodidae,
+1166621,2612,SJ1,LN-Y,"TB105 (2,2)",Collembola,,
+1166622,2613,SJ2,NB-R,"TB105 (2,3)",Hymen,Formicid,
+1166623,2034,RB2,1,"TB105 (2,4)",Hymen,Parasitoid Wasp,
+1166624,2034,RB2,1,"TB105 (2,5)",Diptera,Cecido,Male
+1166625,2031,RB1,4,"TB105 (2,6)",Hymen,Formicid,
+1166626,2031,RB1,4,"TB105 (2,6)",Hymen,Formicid,
+1166627,2031,RB1,4,"TB105 (2,6)",Hymen,Formicid,
+1166628,2031,RB1,4,"TB105 (2,7)",Diptera,Cecido,Female
+1166629,2615,RB2,LB-G,"TB105 (2,8)",Diptera,Psychodidae,
+1166630,2037,CC2,17,"TB105 (2,9)",Hemip,,
+1166631,2616,CC1,LN-G,"TB105 (3,1)",Coleo,,
+1166632,2616,CC1,LN-G,"TB105 (3,1)",Coleo,,
+1166633,2041,SJ2,7,"TB105 (3,2)",Diptera,Cecido,Male
+1166634,2041,SJ2,7,"TB105 (3,2)",Diptera,Cecido,Male
+1166635,2041,SJ2,7,"TB105 (3,2)",Diptera,Cecido,Female
+1166636,2035,CC1,16,"TB105 (3,3)",Diptera,Cecido,Female
+1166637,2035,CC1,16,"TB105 (3,3)",Diptera,Cecido,
+1166638,2035,CC1,16,"TB105 (3,3)",Diptera,Cecido,Female
+1166639,2035,CC1,16,"TB105 (3,3)",Diptera,Cecido,Male
+1166640,2035,CC1,16,"TB105 (3,3)",Diptera,Cecido,Female
+1166641,2035,CC1,17,"TB105 (3,4)",Diptera,Cecido,Female
+1166642,2035,CC1,17,"TB105 (3,4)",Diptera,Cecido,Male
+1166643,2035,CC1,17,"TB105 (3,4)",Diptera,Cecido,Female
+1166644,2614,RB1,LB-R,"TB105 (3,5)",Hymen,Formicid,
+1166645,2031,RB1,2,"TB105 (3,6)",Diptera,Cecido,Female
+1166646,2031,RB1,2,"TB105 (3,6)",Diptera,Cecido,Female
+1166647,2031,RB1,2,"TB105 (3,6)",Diptera,Cecido,Female
+1166648,2031,RB1,2,"TB105 (3,6)",Diptera,Cecido,Female
+1166649,2031,RB1,2,"TB105 (3,6)",Diptera,Cecido,Male
+1166650,2034,RB2,2,"TB105 (3,7)",Diptera,Cecido,Male
+1166651,2613,RB2,2,"TB105 (3,7)",Diptera,Cecido,Female
+1166652,2613,SJ2,LN-R,"TB105 (3,8)",Coleo,,
+1166653,2613,SJ2,LN-R,"TB105 (3,9)",Collembola,,
+1166654,2613,SJ2,LN-R,"TB105 (3,9)",Collembola,,
+1166655,2612,SJ1,LB-Y,"TB105 (4,1)",Diptera,Chiro,
+1166656,2612,SJ1,LB-Y,"TB105 (4,2)",Coleo,,
+1166657,2612,SJ1,LB-Y,"TB105 (4,3)",Thysan,,
+1166658,2041,SJ2,14,"TB105 (4,4)",Diptera,Cecido,Female
+1166659,2614,RB1,NN-R,"TB105 (4,5)",Collembola,,
+1166660,2028,SJ1,13,"TB105 (4,6)",Diptera,Cecido,Female
+1166661,2028,SJ1,13,"TB105 (4,6)",Diptera,Cecido,Female
+1166662,2028,SJ1,13,"TB105 (4,7)",Collembola,,
+1166663,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166664,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166665,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166666,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166667,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166668,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Male
+1166669,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Female
+1166670,2037,CC2,10,"TB105 (4,8)",Diptera,Cecido,Male
+1166671,2037,CC2,10,"TB105 (4,9)",Hymen,Platy,
+1166672,2037,CC2,10,"TB105 (4,9)",Hymen,Platy,
+1166673,2037,CC2,10,"TB105 (4,9)",Hymen,Platy,
+1166674,2037,CC2,10,"TB105 (5,1)",Hemip,,
+1166675,2617,CC2,NB-Y,"TB105 (5,2)",Collembola,,
+1166676,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166677,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166678,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166679,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166680,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166681,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Male
+1166682,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Male
+1166683,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166684,2035,CC1,6,"TB105 (5,3)",Diptera,Cecido,Female
+1166685,2035,CC1,6,"TB105 (5,4)",Diptera,Brachy,
+1166686,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166687,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166688,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166689,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166690,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166691,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166692,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166693,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166694,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166695,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Female
+1166696,2047,RB1,12,"TB105 (5,5)",Diptera,Cecido,Male
+1166697,2037,CC2,14,"TB105 (5,6)",Hymen,Platy,
+1166698,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Female
+1166699,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Female
+1166700,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Female
+1166701,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Male
+1166702,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Female
+1166703,2037,CC2,14,"TB105 (5,7)",Diptera,Cecido,Female
+1166704,2041,SJ2,15,"TB105 (5,8)",Diptera,Cecido,
+1166705,2041,SJ2,15,"TB105 (5,8)",Diptera,Cecido,
+1166706,2041,SJ2,15,"TB105 (5,9)",Hemip,,
+1166707,2047,RB1,21,"TB105 (6,1)",Diptera,Cecido,Male
+1166708,2047,RB1,22,"TB105 (6,2)",Diptera,Cecido,Female
+1166709,2047,RB1,22,"TB105 (6,2)",Diptera,Cecido,Female
+1166710,2047,RB1,19,"TB105 (6,3)",Diptera,Cecido,Female
+1166711,2011,CC1,11,"TB105 (6,4)",Hymen,Platy,
+1166712,2048,RB2,12,"TB105 (6,5)",Diptera,Cecido,Male
+1166713,2048,RB2,12,"TB105 (6,5)",Diptera,Cecido,Female
+1166714,2620,RB1,NN-Y,"TB105 (6,6)",Collembola,,
+1166715,2620,RB1,NB-Y,"TB105 (6,7)",Coleo,,
+1166716,2620,RB1,LN-G,"TB105 (6,8)",Coleo,,
+1166717,2620,RB1,LN-G,"TB105 (6,8)",Coleo,,
+1166718,2620,RB1,LN-G,"TB105 (6,9)",Diptera,Cecido,Male
+1166719,2620,RB1,LN-G,"TB105 (7,1)",Coleo,,
+1166720,2620,RB1,LN-G,"TB105 (7,2)",Arthropoda,,
+1166721,2620,RB1,LN-G,"TB105 (7,3)",Coleo,,
+1166722,2620,RB1,LN-G,"TB105 (7,4)",,,
+1166723,2620,RB1,NN-W,"TB105 (7,5)",Coleo,,
+1166724,2620,RB1,NB-W,"TB105 (7,6)",Hymen,Formicid,
+1166725,2620,RB1,LN-W,"TB105 (7,7)",Coleo,,
+1166726,2049,RB2,15,"TB105 (7,8)",Diptera,Cecido,Female
+1166727,2049,RB2,15,"TB105 (7,8)",Diptera,Cecido,Female
+1166728,2049,RB2,15,"TB105 (7,8)",Diptera,Cecido,Male
+1166729,2049,RB2,15,"TB105 (7,8)",Diptera,Cecido,Male
+1166730,2049,RB2,15,"TB105 (7,9)",Hemip,,
+1166731,2049,RB2,11,"TB105 (8,1)",Diptera,Cecido,Female
+1166732,2049,RB2,9,"TB105 (8,2)",Diptera,Cecido,Female
+1166733,2049,RB2,9,"TB105 (8,2)",Diptera,Cecido,Female
+1166734,2049,RB2,9,"TB105 (8,2)",Diptera,Cecido,
+1166735,2049,RB2,12,"TB105 (8,3)",Hymen,,
+1166736,2049,RB2,12,"TB105 (8,4)",Hemip,Aphid,
+1166737,2043,RB1,10,"TB105 (8,5)",Diptera,Cecido,Female
+1166738,2043,RB1,10,"TB105 (8,5)",Diptera,Cecido,Male
+1166739,2043,RB1,10,"TB105 (8,6)",Hymen,Formicid,
+1166740,2043,RB1,10,"TB105 (8,6)",Hymen,Formicid,
+1166741,2043,RB1,10,"TB105 (8,6)",Hymen,Formicid,
+1166742,2043,RB1,15,"TB105 (8,7)",Diptera,Cecido,Female
+1166743,2043,RB1,15,"TB105 (8,7)",Diptera,Cecido,Male
+1166744,2043,RB1,15,"TB105 (8,8)",Hymen,Formicid,
+1166745,2043,RB1,15,"TB105 (8,8)",Hymen,Formicid,
+1166746,2044,RB1,17,"TB105 (8,9)",Diptera,Cecido,Male
+1166747,2044,RB1,15,"TB105 (9,1)",Diptera,Cecido,Male
+1166748,2044,RB1,15,"TB105 (9,1)",Diptera,Cecido,Male
+1166749,2044,RB1,15,"TB105 (9,1)",Diptera,Cecido,Male
+1166750,2046,RB2,12,"TB105 (9,2)",Anthropoda,,
+1166751,2046,RB2,14,"TB105 (9,3)",Hymen,,
+1166752,2046,RB2,14,"TB105 (9,4)",Hymen,Formicid,
+1166753,2043,RB1,17,"TB105 (9,5)",Diptera,Cecido,Female
+1166754,2043,RB1,17,"TB105 (9,5)",Diptera,Cecido,Female
+1166755,2043,RB1,17,"TB105 (9,5)",Diptera,Cecido,Female
+1166756,2043,RB1,17,"TB105 (9,6)",Hymen,Formicid,
+1166757,2047,RB1,14,"TB105 (9,7)",Coleo,,
+1220400,2045,RB2,16,"TB106 (7,2)",Hymen,Platy,
+1220401,2045,RB2,16,"TB106 (7,2)",Hymen,Platy,
+1220402,2045,SJ1,17,"TB106 (7,3)",Hemip,,
+1220403,2040,SJ1,17,"TB106 (7,4)",Hymen,Platy,
+1220404,2040,RB2,10,"TB106 (7,5)",Hymen,Platy,
+1220405,2045,RB2,11,"TB106 (7,6)",Diptera,Cecido,Female
+1220406,2045,RB2,11,"TB106 (7,7)",Hemip,,
+1220407,2618,SJ1,LN-Y,"TB106 (7,8)",Collembola,,
+1220408,2039,SJ1,1,"TB106 (7,9)",Diptera,Cecido,Female
+1220409,2039,SJ1,1,"TB106 (7,9)",Diptera,Cecido,Female
+1220410,2039,SJ1,1,"TB106 (7,9)",Diptera,Cecido,Female
+1220411,2039,SJ1,1,"TB106 (8,1)",Hemip,Aphid,
+1220412,2039,SJ1,11,"TB106 (8,2)",Diptera,Cecido,Male
+1220413,2039,SJ1,11,"TB106 (8,2)",Diptera,Cecido,Female
+1220414,2039,SJ1,11,"TB106 (8,2)",Diptera,Cecido,Female
+1220415,2039,SJ1,11,"TB106 (8,2)",Diptera,Cecido,Female
+1220416,2039,SJ1,11,"TB106 (8,2)",Diptera,Cecido,Male
+1220417,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Female
+1220418,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Female
+1220419,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Male
+1220420,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Female
+1220421,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Male
+1220422,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Female
+1220423,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Male
+1220424,2039,SJ1,9,"TB106 (8,3)",Diptera,Cecido,Male
+1220425,2039,SJ1,15,"TB106 (8,4)",Diptera,Cecido,Female
+1220426,2039,SJ1,15,"TB106 (8,4)",Diptera,Cecido,Female
+1220427,2039,SJ1,15,"TB106 (8,4)",Diptera,Cecido,Male
+1220428,2039,SJ1,15,"TB106 (8,4)",Diptera,Cecido,Female
+1220429,2039,SJ1,17,"TB106 (8,5)",Diptera,Cecido,Male
+1220430,2039,SJ1,17,"TB106 (8,5)",Diptera,Cecido,Male
+1220431,2039,SJ1,17,"TB106 (8,5)",Diptera,Cecido,Female
+1220432,2039,SJ1,17,"TB106 (8,5)",Diptera,Cecido,Male
+1220433,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220434,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Female
+1220435,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220436,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220437,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220438,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220439,2039,SJ1,10,"TB106 (8,6)",Diptera,Cecido,Male
+1220440,2039,SJ1,10,"TB106 (8,7)",Hemip,Aphid,
+1220441,2039,SJ1,10,"TB106 (8,8)",Hemip,,
+1220442,2039,SJ1,7,"TB106 (8,9)",Diptera,Cecido,Female
+1220443,2039,SJ1,7,"TB106 (8,9)",Diptera,Cecido,Female
+1220444,2039,SJ1,16,"TB106 (9,1)",Diptera,Cecido,Female
+1220445,2039,SJ1,16,"TB106 (9,1)",Diptera,Cecido,Male
+1220446,2039,SJ1,16,"TB106 (9,1)",Diptera,Cecido,Female
+1220447,2039,SJ1,16,"TB106 (9,1)",Diptera,Cecido,Female
